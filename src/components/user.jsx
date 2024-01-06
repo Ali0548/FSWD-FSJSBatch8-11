@@ -15,8 +15,6 @@ const User = (props) => {
                 {user} Login {web} 
             </he>
         </div>
-        <Test user={user}/>
-        <Test2 user={user}/>
         <div className="card-body">
             <div className="form-group">
                 <label htmlFor="">Enter Email</label>
